@@ -1,6 +1,6 @@
-# MealBridge
+MealBridge
 
-**Surplus food. Shortest route. Real impact.**
+Surplus food. Shortest route. Real impact.
 
 MealBridge solves food wastage by connecting event caterers, restaurants, hostels and canteens that have surplus food with nearby NGOs, community kitchens and people who can distribute it. Volunteers help collect and deliver surplus food before it goes to waste.
 
